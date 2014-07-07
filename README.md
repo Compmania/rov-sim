@@ -1,7 +1,7 @@
 rov-sim
 =======
 
-ROV Simulator created as a capstone project at CSU Monterey Bay
+ROV Simulator created as a capstone project at CSU Monterey Bay. This was created using 3D GameStudio Pro. All code files (*.wdl) can be opened with a text editor. The model files (*.mdl) require 3D GameStudio to open and integrate. The program itself (Rover.exe) should run on most any Windows PC.
 
 As a senior thesis project at CSU Monterey Bay, I was the sole programmer and designer of a simulator based on an underwater Remotely Operated Vehicle (ROV). This project was created for a Marine Biology instructor, Dr. Steve Moore, to be a method of training middle-school students to pilot his ROV. The project simulated the web-based control interface, movement underwater, visibility factors, and oceanic effects felt when piloting the ROV.
 
